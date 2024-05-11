@@ -1,4 +1,4 @@
-国际,#genre#
+央视,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
@@ -34,12 +34,14 @@ CETV-1 综合教育,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.co
 CETV-2 空中课堂,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-3 教育服务,http://111.199.238.119:3568/rtp/239.3.1.55:4120
 CETV-4 职业教育,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+国际,#genre#
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+地方卫视,#genre#
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 浙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 江苏卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
@@ -83,19 +85,21 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 厦门卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 康巴卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 山东教育卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010112/1.m3u8
+电影频道,#genre#
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 漫威电影,https://tv.iill.top/douyu/6140589
+BesTV华语影院,http://222.212.14.196:8000/udp/239.93.0.138:5140
+1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
+峨眉电影,http://118.114.96.20:8889/udp/239.93.0.252:5140
+求索频道,#genre#
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
-BesTV华语影院,http://222.212.14.196:8000/udp/239.93.0.138:5140
-1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
-峨眉电影,http://118.114.96.20:8889/udp/239.93.0.252:5140
 纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
@@ -162,6 +166,18 @@ tvg-id="爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://gitee.com/Black_cr
 tvg-id="爱历史" tvg-name="iHOT爱历史" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot10.png" group-title="IHOT频道",http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
 tvg-id="爱科学" tvg-name="iHOT爱科学" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot07.png" group-title="IHOT频道",http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/iHOT/ihot11.png" group-title="IHOT频道",http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+剧场频道,#genre#
+周星驰,https://www.goodiptv.club/huya/11342412
+新三国演义,https://www.goodiptv.club/huya/11352944
+新水浒传,https://www.goodiptv.club/huya/11342384
+神探狄仁杰,https://www.goodiptv.club/huya/11342425
+爱情公寓,https://www.goodiptv.club/huya/11336726
+倚天屠龙记,https://www.goodiptv.club/huya/11342403
+铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
+楚汉骄雄,https://www.goodiptv.club/huya/23740156
+封神榜,https://www.goodiptv.club/huya/23749096
+西游记,https://www.goodiptv.club/huya/23735126
+天龙八部,https://www.goodiptv.club/huya/23903123
 古装剧场,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
 动作电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225555/index.m3u8
 农业致富,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
@@ -234,10 +250,7 @@ BRTV国际频道,http://221.219.66.252:18888/rtp/239.3.1.235:8000
 海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-楚汉骄雄,https://www.goodiptv.club/huya/23740156
-封神榜,https://www.goodiptv.club/huya/23749096
-西游记,https://www.goodiptv.club/huya/23735126
-天龙八部,https://www.goodiptv.club/huya/23903123
+埋堆堆频道,#genre#
 埋堆堆5,https://tv.iill.top/huya/23734169
 埋堆堆6,https://tv.iill.top/huya/23863804
 埋堆堆7,https://tv.iill.top/huya/23865080
@@ -267,6 +280,7 @@ BRTV国际频道,http://221.219.66.252:18888/rtp/239.3.1.235:8000
 爱情公寓,https://www.goodiptv.club/huya/11336726
 倚天屠龙记,https://www.goodiptv.club/huya/11342403
 铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
+国际频道,#genre#
 CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
